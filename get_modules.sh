@@ -16,8 +16,8 @@ svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/MCS/trunk/jmal
 svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/oiTools/trunk/oiexplorer-core
 
 # aspro-conf
-svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/ASPRO2/tags/ASPRO2-CONF_2020_0220/aspro-conf
+svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/ASPRO2/trunk/aspro-conf
 
 # aspro gui
-svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/ASPRO2/tags/ASPRO2_V20_3_0/aspro
+svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/ASPRO2/trunk/aspro
 
