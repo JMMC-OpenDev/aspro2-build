@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -ux;
+
 # jmcs
 svn --username anonymous checkout https://svn.jmmc.fr/jmmc-sw/MCS/trunk/jmcs/
 

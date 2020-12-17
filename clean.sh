@@ -1,4 +1,6 @@
 #!/bin/bash
 
-rm -rf aspro aspro-conf oiexplorer-core jmal OITools testgui jmcs
+rm -rf oiexplorer-core jmal OITools testgui jmcs
+
+rm -rf aspro aspro-conf
 

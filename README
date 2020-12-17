@@ -50,7 +50,7 @@ bash build_gui.sh
 
 3. Run ASPRO2:
 - run ASPRO2 GUI:
-bash run_gui.sh
+bash run_Aspro2-gui.sh
 
 
 Enjoy ASPRO2 !
